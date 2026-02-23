@@ -6,6 +6,7 @@ __pycache__/
 *.ipynb
 *.DS_Store
 .vscode/
+.claude/
 .ipynb_checkpoints/
 docker/*
 *.pickle
